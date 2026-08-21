@@ -8,10 +8,10 @@
   <a href="https://github.com/amitsriwastav">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://in.linkedin.com/amitsriwastav">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://amitsriwastav.com">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
