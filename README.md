@@ -41,6 +41,20 @@ I enjoy turning real-world business requirements into **clean, secure, scalable 
 * 📱 React Native applications
 * 🔧 Git, Composer, Vite and modern development workflows
 
+  ## 💡 What I Specialize In
+
+| Area                   | Focus                                              |
+| ---------------------- | -------------------------------------------------- |
+| 🐘 **PHP Development** | Core PHP, OOP, PDO, MySQL                          |
+| 🧩 **WordPress**       | Custom Plugins & Themes, Gutenberg, ACF, CPT             |
+| 🛒 **WooCommerce**     | Product, Cart, Checkout & e-Commerce customization |
+| 🚀 **Laravel**         | MVC applications, APIs & Backend systems           |
+| ⚛️ **React**           | Modern frontend applications & API integration     |
+| 📱 **React Native**    | Cross-platform mobile applications                 |
+| 🔌 **API Development** | REST APIs & third-party integrations               |
+| 💳 **Integrations**    | Payment gateways & external services               |
+
+
 ---
 
 # 🛠️ Technology Stack
@@ -121,7 +135,17 @@ Modern web interfaces and cross-platform mobile applications using React and Rea
 
 ---
 
-# 📌 Featured Projects
+# 📌 Featured Projects & 🚀 Featured Work
+
+> Selected projects demonstrating my experience across PHP, WordPress, WooCommerce, Laravel, React and React Native.
+
+| Project              | Technology         | Focus                    |
+| -------------------- | ------------------ | ------------------------ |
+| 🔌 WordPress Plugin  | PHP / WordPress    | Plugin Architecture      |
+| 🛒 WooCommerce Tools | PHP / WooCommerce  | E-commerce Customization |
+| 🚀 Laravel API       | Laravel / MySQL    | REST API Development     |
+| ⚛️ React Dashboard   | React / JavaScript | Frontend Development     |
+| 📱 GST Calculator    | React Native       | Mobile Application       |
 
 > 🚧 Selected projects are being organized and prepared for publication.
 
