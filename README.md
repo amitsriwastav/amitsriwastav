@@ -189,7 +189,7 @@ A custom WordPress solution demonstrating plugin architecture, hooks, admin sett
 `Coming Soon`
 
 <p align="center">
-  <img src="./assets/learning-banner.png" alt="Amit Sriwastav - Senior Full Stack Developer | WordPress | Laravel | React | MySQL | REST APIs">
+  <img src="./assets/start-learning-banner.webp" alt="Amit Sriwastav - Senior Full Stack Developer | WordPress | Laravel | React | MySQL | REST APIs">
 </p>
 
 # 🔥 Contribution Activity
