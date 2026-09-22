@@ -63,7 +63,8 @@ I enjoy turning real-world business requirements into **clean, secure, scalable 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="./assets/icons/php.png" height="50px">
+  <img src="./assets/icons/laravel.png" height="50px">
 </p>
 
 **PHP · Laravel · CodeIgniter · OOP · MVC · REST APIs**
@@ -71,7 +72,11 @@ I enjoy turning real-world business requirements into **clean, secure, scalable 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,jquery" />
+  <img src="./assets/icons/js.png" height="50px">
+  <img src="./assets/icons/react.png" height="50px">
+  <img src="./assets/icons/bootstrap.png" height="50px">
+  <img src="./assets/icons/html5.png" height="50px">
+  <img src="https://skillicons.dev/icons?i=tailwind,jquery,css" />
 </p>
 
 **JavaScript · React · React-Native · jQuery · AJAX · Responsive UI**
@@ -79,7 +84,7 @@ I enjoy turning real-world business requirements into **clean, secure, scalable 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 **MySQL · Database Design · Query Optimization**
@@ -87,7 +92,7 @@ I enjoy turning real-world business requirements into **clean, secure, scalable 
 ### CMS & eCommerce
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="./assets/icons/wordpress.png" height="50px">
 </p>
 
 **WordPress · WooCommerce · Custom Plugin Development · Custom Theme Development · CPT · ACF**
@@ -95,7 +100,9 @@ I enjoy turning real-world business requirements into **clean, secure, scalable 
 ### Tools, Workflow & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="./assets/icons/git-alt.png" height="50px">
+  <img src="./assets/icons/github.png" height="50px">
+  <img src="./assets/icons/docker.png" height="50px">
 </p>
 
 **Git · GitHub · Docker · Composer · Vite · VS Code · API Development**
