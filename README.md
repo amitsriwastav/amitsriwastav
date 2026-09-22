@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/github-banner.png" alt="Amit Sriwastav - Senior Full Stack Developer | WordPress | Laravel | React | MySQL | REST APIs">
 </p>
+
 # 👋 Hi, I'm Amit Sriwastav
 
 ### Senior Full Stack Developer | WordPress | Laravel | React | MySQL | REST APIs
