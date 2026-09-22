@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Sriwastav
 
-### Senior Full Stack Developer | PHP • Laravel • React • WordPress
+### Senior Full Stack Developer | WordPress | Laravel | React | MySQL | REST APIs
 
 **10+ years of experience** building web applications, REST APIs, eCommerce platforms, business applications and custom WordPress solutions.
 
@@ -20,22 +20,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer specializing in **PHP backend development**, with professional experience across Laravel, CodeIgniter, React, MySQL, REST APIs, WordPress and WooCommerce.
+I'm a Full Stack Developer specializing in **PHP backend development**, with 10+ years of experience building PHP applications, custom WordPress solutions, WooCommerce functionality, REST APIs and modern web interfaces.
 
-I enjoy turning business requirements into **clean, secure, scalable and maintainable software**.
+I enjoy turning real-world business requirements into **clean, secure, scalable and maintainable software solutions**.
 
 ### What I Work With
 
-* 💻 Backend & API development
+* 💻 10+ years of experience in Web & API Development
+* 🐘 Strong background in PHP and MySQL
 * ⚛️ React-based frontend applications
 * 🏗️ Full-stack web applications
-* 🧩 WordPress plugin development
+* 🧩 Experienced in WordPress Plugin & Theme Development
 * 🛒 WooCommerce customization & eCommerce
 * 🗄️ MySQL database design & optimization
 * 🔐 Authentication & authorization
-* 🔗 Third-party API integrations
+* 🔗 Third-party API & Payment Gateway integrations
 * 📱 React Native applications
-* 🔀 Git-based development workflows
+* 🔧 Git, Composer, Vite and modern development workflows
 
 ---
 
@@ -55,7 +56,7 @@ I enjoy turning business requirements into **clean, secure, scalable and maintai
 <img src="https://skillicons.dev/icons?i=js,react,jquery" />
 </p>
 
-**JavaScript · React · jQuery · AJAX · Responsive UI**
+**JavaScript · React · React-Native · jQuery · AJAX · Responsive UI**
 
 ### Database
 
@@ -71,19 +72,31 @@ I enjoy turning business requirements into **clean, secure, scalable and maintai
 <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
-**WordPress · WooCommerce · Custom Plugin Development**
+**WordPress · WooCommerce · Custom Plugin Development · Custom Theme Development · CPT · ACF**
 
-### Tools & Development
+### Tools, Workflow & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-**Git · GitHub · Docker · API Development**
+**Git · GitHub · Docker · Composer · Vite · VS Code · API Development**
 
 ---
 
 # 🚀 What I Build
+
+**🧩 WordPress & WooCommerce**
+
+Custom WordPress plugins, themes, WooCommerce functionality, admin interfaces, product customizations and third-party integrations.
+
+**🐘 PHP & Laravel Applications**
+
+Business applications, database-driven systems, REST APIs and backend services using PHP, Laravel and MySQL.
+
+**⚛️ React & React Native Applications**
+
+Modern web interfaces and cross-platform mobile applications using React and React Native.
 
 ```text
 ┌─────────────────────────────────────────────┐
@@ -146,17 +159,6 @@ A custom WordPress solution demonstrating plugin architecture, hooks, admin sett
 **Technologies:** `PHP` `WordPress` `WooCommerce` `JavaScript`
 
 `Coming Soon`
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitsriwastav&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsriwastav&layout=compact&hide_border=true" height="165" />
-</p>
-
----
 
 # 🔥 Contribution Activity
 
@@ -243,13 +245,26 @@ Deploy & Maintain
   <a href="https://amitsriwastav.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="mailto:support@amitsriwastav.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+## 🤝 Open To
+<ul>
+<li>PHP Developer opportunities</li>
+<li>WordPress / WooCommerce development</li>
+<li>Laravel projects</li>
+<li>React / React Native projects</li>
+<li>Open-source collaboration</li>
+<li>Freelance development opportunities</li>
+</ul>
 
 ## ⭐ Thanks for Visiting
 
 I'm continuously building, learning and sharing practical software engineering projects.
 
-**Feel free to explore my repositories and connect with me.**
+**Feel free to explore my repositories and connect with me on 📧 Email: support@amitsriwastav.com**
 
