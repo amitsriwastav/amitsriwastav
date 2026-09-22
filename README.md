@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Amit Sriwastav
 
-### Senior Full Stack Developer | WordPress | Laravel | React | MySQL | REST APIs
+### Senior Full Stack Developer | PHP | WordPress | Laravel | React | MySQL | REST APIs
 
 **10+ years of experience** building web applications, REST APIs, eCommerce platforms, business applications and custom WordPress solutions.
 
@@ -187,6 +187,10 @@ A custom WordPress solution demonstrating plugin architecture, hooks, admin sett
 **Technologies:** `PHP` `WordPress` `WooCommerce` `JavaScript`
 
 `Coming Soon`
+
+<p align="center">
+  <img src="./assets/learning-banner.png" alt="Amit Sriwastav - Senior Full Stack Developer | WordPress | Laravel | React | MySQL | REST APIs">
+</p>
 
 # 🔥 Contribution Activity
 
